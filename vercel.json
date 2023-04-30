@@ -6,7 +6,7 @@
 
       "source": "/api/:match*",
 
-      "destination": "https://yunapi.vbip.one/:match*"
+      "destination": "https://yunapi.nftn.me/:match*"
 
     }
 
